@@ -1,5 +1,7 @@
 #Andy Novo's version
 # board_game_app
+
+[![Join the chat at https://gitter.im/AndyNovo/board_game_app](https://badges.gitter.im/AndyNovo/board_game_app.svg)](https://gitter.im/AndyNovo/board_game_app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Make a board game app.  Learn LAMP and AJAX.
 
 This is intended as an excuse to build your first API.
